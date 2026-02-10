@@ -194,5 +194,6 @@ This project is proprietary software. Unauthorized copying, distribution, or use
 ---
 
 <div align="center">
-  <small>Made with ❤️ by the AOTMS Team</small>
+  <small>Engineered & Dsigned with 🧡🤍🩵 by the AOTMS Team</small>
 </div>
+
